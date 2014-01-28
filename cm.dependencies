@@ -1,0 +1,22 @@
+[
+ {
+   "repository": "Luquidtester/android_device_samsung_msm7x27a-common",
+   "target_path": "device/samsung/msm7x27a-common"
+   "revision": "cm-11.0"
+ }
+ {
+    "repository": "Luquidtester/DirtyKernel-3.4.76",
+    "target_path": "kernel/samsung/msm7x27a-common",
+    "revision": "master"
+  },
+  {
+    "repository": "android_device_samsung_trebon",
+    "target_path": "device/samsung/trebon",
+    "revision": "android-4.4"
+  },
+  {
+    "repository": "Luquidtester/proprietary_vendor_samsung_msm7x27a",
+    "target_path": "vendor/samsung",
+    "revision": "cm-10.2"
+  },
+]
