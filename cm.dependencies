@@ -10,9 +10,9 @@
     "revision": "master"
   },
   {
-    "repository": "android_device_samsung_trebon",
+    "repository": "Luquidtester/android_device_s7500",
     "target_path": "device/samsung/trebon",
-    "revision": "android-4.4"
+    "revision": "cm-11.0"
   },
   {
     "repository": "Luquidtester/proprietary_vendor_samsung_msm7x27a",
